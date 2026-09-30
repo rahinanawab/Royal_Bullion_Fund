@@ -4,12 +4,12 @@
 
 **A secure digital asset management platform for gold-backed investments.**
 
-Royal Bullion Funds is a cross-platform web and mobile application that enables users to invest, trade, and manage digital assets within the Royal Bullion Funds (RBF) ecosystem. The platform allows users to convert RBF tokens into RBG (Royal Gold-backed assets), purchase investment plans, manage secure wallet transactions, and invest in gold-related products through an integrated digital asset management system.
+Royal Bullion Funds is a cross-platform web and mobile application that enables users to invest, trade, and manage digital assets within the Royal Bullion Funds (RBF) ecosystem. The platform allows users to convert RBF tokens into Gold (Royal Gold-backed assets), purchase investment plans, manage secure wallet transactions, and invest in gold-related products through an integrated digital asset management system.
 
 ## ✨ Features
 
 - 🪙 Digital asset and investment management
-- 💰 Convert RBF tokens into RBG (Royal Gold-backed assets)
+- 💰 Convert RBF tokens into Gold (Royal Gold-backed assets)
 - 📈 Purchase investment plans using RBF
 - 👛 Secure integrated digital wallet
 - 🔄 Wallet-to-wallet transactions
@@ -22,7 +22,7 @@ Royal Bullion Funds is a cross-platform web and mobile application that enables 
 
 ## 📱 About the Platform
 
-Royal Bullion Funds is designed to simplify digital asset management and gold-based investments through a secure and centralized ecosystem. Users can manage their RBF tokens, convert them into gold-backed RBG assets, participate in investment plans, and perform secure transactions directly from their digital wallet.
+Royal Bullion Funds is designed to simplify digital asset management and gold-based investments through a secure and centralized ecosystem. Users can manage their RBF tokens, convert them into gold-backed Gold assets, participate in investment plans, and perform secure transactions directly from their digital wallet.
 
 To ensure regulatory compliance and platform security, every user completes a Know Your Customer (KYC) verification process before accessing investment and trading features.
 
@@ -41,8 +41,8 @@ The platform supports:
 2. Complete KYC verification by submitting a passport or national ID.
 3. Access your secure digital wallet.
 4. Purchase investment plans using RBF tokens.
-5. Convert RBF into RBG assets.
-6. Use RBG to purchase physical or digital gold-related products.
+5. Convert RBF into Gold assets.
+6. Use Gold to purchase physical or digital gold-related products.
 7. Track your investments, wallet balance, and transaction history.
 
 ## 🔐 Security & Compliance
