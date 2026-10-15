@@ -1,0 +1,8 @@
+/*
+  Tailwind CSS is set up here. Preflight (Tailwind's reset) is intentionally
+  NOT imported, so the original portfolio design (app/portfolio.css) stays
+  pixel-identical. Tailwind utility classes (e.g. className="mt-4 flex")
+  work in any component alongside it.
+*/
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
